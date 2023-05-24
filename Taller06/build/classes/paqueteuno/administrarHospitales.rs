@@ -1,0 +1,10 @@
+paqueteuno.Hospital
+paqueteuno.administrarHospitales
+paqueteuno.Enfermero
+EntidadHospitalaria
+paqueteuno.Ciudad
+paqueteuno.Medico
+Medico
+Ciudad
+paqueteuno.EntidadHospitalaria
+Enfermero
